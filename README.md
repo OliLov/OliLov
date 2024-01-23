@@ -18,8 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliLov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[List of languages and tools you use]
-
 ## Connect with Me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/oliverlovstrom/)](https://www.linkedin.com/in/oliverlovstrom/)
