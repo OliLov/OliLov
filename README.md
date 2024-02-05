@@ -8,7 +8,7 @@
 I'm an MSc student in Computer Science and Engineering, diving deep into the world of Python, machine learning, and other technologies.
 
 ### Currently Working On:
-- **Master Thesis on Real-Time Edge AI Hand Landmark Detection for Drone Controls**:
+- **Master Thesis on Real-Time Edge AI Hand Landmark Detection for Drone Controls**
 - **PyCBCount**
 - **Thirty Day Coding Challenge in Python**
 
